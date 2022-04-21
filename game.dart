@@ -9,7 +9,7 @@ void main() {
 
   Armor playerArmor = Armor();
 
-  playerArmor.name = "Water armor";
+  playerArmor.name = "The Blue Armor";
   playerArmor.damage = 232.55;
   playerArmor.isMagic = true;
   playerArmor.defense = 500;
